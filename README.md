@@ -1,4 +1,15 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Bose landing page
+
+  [Landing page link](https://rhashtag.github.io/Kickstarter_landing_page/)
+
+
+## About this project:
+
+1. This landing page was created using BEM methodology. The page was developed using a Figma design - [Figma design](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
+
+2. The project was developed as desktop-first with breakpoints for the page as follows:
+- Desktop: 1260px
+- Tablet: 744px
+- Mobile: 320px
+
+3. Technology stack: HTML, CSS, SCSS, JS.

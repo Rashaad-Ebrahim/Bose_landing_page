@@ -1,6 +1,6 @@
 # Bose landing page
 
-  [Landing page link](https://rhashtag.github.io/Kickstarter_landing_page/)
+  [Landing page link](https://rhashtag.github.io/Bose_landing_page/)
 
 
 ## About this project:

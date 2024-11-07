@@ -1,5 +1,5 @@
 {
-  "name": "Bose",
+  "name": "bose",
   "version": "1.0.0",
   "description": "Bose landing page",
   "main": "index.js",
@@ -29,9 +29,8 @@
     "eslint-plugin-node": "^9.0.1",
     "gh-pages": "2.0.0",
     "gulp-htmllint": "0.0.16",
-    "sass": "^1.80.6",
     "parcel": "^1.12.4",
-    "stylelint": "^13.5.0",
+    "sass": "^1.80.6",
     "stylelint-config-recommended-scss": "^3.3.0",
     "stylelint-scss": "^3.17.2"
   },
@@ -44,5 +43,7 @@
       "bem": false
     }
   },
-  "dependencies": {}
+  "dependencies": {
+    "stylelint": "^10.0.0"
+  }
 }
